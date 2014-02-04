@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>securepointsslvpn</id>
+    <version>1.0</version>
+    <title>Securepoint SSL VPN</title>
+    <authors>Securepoint GmbH</authors>
+    <owners>langsamu</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://securepoint.sourceforge.net/</projectUrl>
+    <iconUrl>http://c.fsdn.com/allura/p/securepoint/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>OpenVPN GUI for Windows.</description>
+    <summary></summary>
+    <releaseNotes>Stable release</releaseNotes>
+    <copyright>2011 Securepoint GmbH</copyright>
+    <tags>securepoint, ssl, vpn, openvpn</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
