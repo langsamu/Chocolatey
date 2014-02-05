@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>lastfmscrobbler</id>
+    <version>2.1.36</version>
+    <title>Last.fm Scrobbler</title>
+    <authors>Last.fm</authors>
+    <owners>langsamu</owners>
+    <projectUrl>http://www.last.fm/download</projectUrl>
+    <iconUrl>http://cdn.last.fm/flatness/client/lastfm_icon_60.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Scrobbler automatically fills your library and updates it with what you’ve been listening to on your computer.</description>
+    <copyright>2005, 2006 - 2012 Last.fm Limited</copyright>
+    <tags>music, media, scrobbler, last.fm</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
