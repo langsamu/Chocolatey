@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'securepointsslvpn' 'exe' '' 'http://downloads.sourceforge.net/project/securepoint/SecurepointSSLVPN_%20v1.0.3.exe?r=&ts=1391552203'
+Install-ChocolateyPackage 'securepointsslvpn' 'exe' '' 'http://download.securepoint.de/files/Securepoint%20SSL%20VPN%20Client/v1.0.3/SecurepointSSLVPN.exe'
