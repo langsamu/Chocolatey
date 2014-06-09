@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>securepointsslvpn</id>
-    <version>1.0.3</version>
+    <version>1.0.3.1</version>
     <title>Securepoint SSL VPN</title>
     <authors>Securepoint GmbH</authors>
     <owners>langsamu</owners>
