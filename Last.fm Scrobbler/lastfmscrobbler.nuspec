@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>lastfmscrobbler</id>
-    <version>2.1.36</version>
+    <version>3.1.29</version>
     <title>Last.fm Scrobbler</title>
     <authors>Last.fm</authors>
     <owners>langsamu</owners>
-    <projectUrl>http://www.last.fm/download</projectUrl>
+    <projectUrl>https://www.last.fm/about/trackmymusic</projectUrl>
     <iconUrl>http://cdn.last.fm/flatness/client/lastfm_icon_60.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The Scrobbler automatically fills your library and updates it with what you�ve been listening to on your computer.</description>
-    <copyright>2005, 2006 - 2012 Last.fm Limited</copyright>
+    <description>The Last.fm Desktop Scrobbler for Windows is a simple app that runs in the background and automatically updates your profile with what you’ve been playing on your computer via native media players such as Windows Media Player or iTunes.</description>
+    <copyright>CBS Interactive © 2020 Last.fm Ltd. All rights reserved</copyright>
     <tags>music, media, scrobbler, last.fm</tags>
   </metadata>
   <files>

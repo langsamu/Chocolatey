@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'lastfmscrobbler' 'exe' '' 'http://cdn.last.fm/client/Win/Last.fm-2.1.36.exe'
+Install-ChocolateyPackage 'lastfmscrobbler' 'msi' '' 'https://cdn.last.fm/client/Win/LastFM_Scrobbler_3.1.29.msi'
