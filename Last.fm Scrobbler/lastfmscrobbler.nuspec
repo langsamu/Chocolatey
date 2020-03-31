@@ -3,15 +3,17 @@
   <metadata>
     <id>lastfmscrobbler</id>
     <version>3.1.29</version>
-    <title>Last.fm Scrobbler</title>
+    <title>Last.fm Desktop Scrobbler</title>
     <authors>Last.fm</authors>
     <owners>langsamu</owners>
     <projectUrl>https://www.last.fm/about/trackmymusic</projectUrl>
     <iconUrl>http://cdn.last.fm/flatness/client/lastfm_icon_60.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>The Last.fm Desktop Scrobbler for Windows is a simple app that runs in the background and automatically updates your profile with what you’ve been playing on your computer via native media players such as Windows Media Player or iTunes.</description>
     <copyright>CBS Interactive © 2020 Last.fm Ltd. All rights reserved</copyright>
     <tags>music media scrobbler last.fm</tags>
+    <licenseUrl>https://www.last.fm/legal/terms</licenseUrl>
+    <packageSourceUrl>https://github.com/langsamu/Chocolatey/tree/master/Last.fm%20Scrobbler</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
