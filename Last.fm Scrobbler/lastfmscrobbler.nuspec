@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The Last.fm Desktop Scrobbler for Windows is a simple app that runs in the background and automatically updates your profile with what you’ve been playing on your computer via native media players such as Windows Media Player or iTunes.</description>
     <copyright>CBS Interactive © 2020 Last.fm Ltd. All rights reserved</copyright>
-    <tags>music, media, scrobbler, last.fm</tags>
+    <tags>music media scrobbler last.fm</tags>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
